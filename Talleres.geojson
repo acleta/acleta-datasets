@@ -13,9 +13,9 @@
             },
             "properties": {
                 "name": "Una Velocidad",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Esmeralda 775"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Esmeralda 775"
             }
         },
         {
@@ -30,9 +30,9 @@
             },
             "properties": {
                 "name": "Holanda",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Holanda 29"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Holanda 29"
             }
         },
         {
@@ -47,8 +47,8 @@
             },
             "properties": {
                 "name": "San Diego",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -63,9 +63,9 @@
             },
             "properties": {
                 "name": "El Taller",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Dublé Almeyda 4294"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Dublé Almeyda 4294"
             }
         },
         {
@@ -80,9 +80,9 @@
             },
             "properties": {
                 "name": "Peter Tormen",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Las Condes 7030"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Las Condes 7030"
             }
         },
         {
@@ -97,9 +97,9 @@
             },
             "properties": {
                 "name": "Eduardo Silva",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Antonio Bellet 29"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Antonio Bellet 29"
             }
         },
         {
@@ -114,9 +114,9 @@
             },
             "properties": {
                 "name": "Bicicletería",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Larraín 6000"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Larraín 6000"
             }
         },
         {
@@ -131,9 +131,9 @@
             },
             "properties": {
                 "name": "Egaña",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Larraín 6280"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Larraín 6280"
             }
         },
         {
@@ -148,9 +148,9 @@
             },
             "properties": {
                 "name": "Café La Bicicleta",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Simón Bolivar 3742"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Simón Bolivar 3742"
             }
         },
         {
@@ -165,9 +165,9 @@
             },
             "properties": {
                 "name": "Infante",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "José Manuel Infante 1462"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "José Manuel Infante 1462"
             }
         },
         {
@@ -182,9 +182,9 @@
             },
             "properties": {
                 "name": "Cannondale",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Nueva Las Condes 12375"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Nueva Las Condes 12375"
             }
         },
         {
@@ -199,9 +199,9 @@
             },
             "properties": {
                 "name": "Giant",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Padre Hurtado 1137"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Padre Hurtado 1137"
             }
         },
         {
@@ -216,9 +216,9 @@
             },
             "properties": {
                 "name": "Manuel Martínez",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Polcura 1925"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Polcura 1925"
             }
         },
         {
@@ -233,9 +233,9 @@
             },
             "properties": {
                 "name": "La Chancha Pig",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Gilberto Fuenzalida 205"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Gilberto Fuenzalida 205"
             }
         },
         {
@@ -250,9 +250,9 @@
             },
             "properties": {
                 "name": "Arjuna",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Irarrázaval 647"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Irarrázaval 647"
             }
         },
         {
@@ -267,9 +267,9 @@
             },
             "properties": {
                 "name": "Avilés",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Bilbao 7529"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Bilbao 7529"
             }
         },
         {
@@ -284,9 +284,9 @@
             },
             "properties": {
                 "name": "López",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Cerrito 271"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Cerrito 271"
             }
         },
         {
@@ -301,9 +301,9 @@
             },
             "properties": {
                 "name": "Urban Cycling",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Tomás Moro 885"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Tomás Moro 885"
             }
         },
         {
@@ -318,9 +318,9 @@
             },
             "properties": {
                 "name": "Cycles Alexander",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Fermín Vivaceta 4790"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Fermín Vivaceta 4790"
             }
         },
         {
@@ -335,9 +335,9 @@
             },
             "properties": {
                 "name": "Beltrán",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Luis Beltrán 1563"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Luis Beltrán 1563"
             }
         },
         {
@@ -352,9 +352,9 @@
             },
             "properties": {
                 "name": "Oxford sucursal Providencia",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Manuel Montt 933"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Manuel Montt 933"
             }
         },
         {
@@ -369,9 +369,9 @@
             },
             "properties": {
                 "name": "Oxford sucursal Vitacura",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Vitacura 7163"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Vitacura 7163"
             }
         },
         {
@@ -386,9 +386,9 @@
             },
             "properties": {
                 "name": "Bicioutlet sucursal Ñuñoa",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Irarrázaval 5515"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Irarrázaval 5515"
             }
         },
         {
@@ -403,9 +403,9 @@
             },
             "properties": {
                 "name": "Bicioulet sucursal Las Condes",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Vaticano 4391"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Vaticano 4391"
             }
         },
         {
@@ -420,9 +420,9 @@
             },
             "properties": {
                 "name": "Echard Bike",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Vitacura 6459"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Vitacura 6459"
             }
         },
         {
@@ -437,9 +437,9 @@
             },
             "properties": {
                 "name": "Brabus",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Apóstol Santiago 440"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Apóstol Santiago 440"
             }
         },
         {
@@ -454,9 +454,9 @@
             },
             "properties": {
                 "name": "Mena",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Pedro Lagos 1112"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Pedro Lagos 1112"
             }
         },
         {
@@ -471,9 +471,9 @@
             },
             "properties": {
                 "name": "Valber",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Ossa 146"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Ossa 146"
             }
         },
         {
@@ -488,9 +488,9 @@
             },
             "properties": {
                 "name": "Urrutia",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Macul 4595"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Macul 4595"
             }
         },
         {
@@ -505,9 +505,9 @@
             },
             "properties": {
                 "name": "Servi Bike",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Monseñor Edwards 1024"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Monseñor Edwards 1024"
             }
         },
         {
@@ -522,9 +522,9 @@
             },
             "properties": {
                 "name": "Altered sucursal Las Condes",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Cristobal Colón 5831"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Cristobal Colón 5831"
             }
         },
         {
@@ -539,9 +539,9 @@
             },
             "properties": {
                 "name": "Altered sucursal Vitacura",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Gerónimo de Alderete 1651"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Gerónimo de Alderete 1651"
             }
         },
         {
@@ -556,8 +556,8 @@
             },
             "properties": {
                 "name": "Franklin 1472",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -572,9 +572,9 @@
             },
             "properties": {
                 "name": "El Cóndor",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Rodrigo De Araya 3673"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Rodrigo De Araya 3673"
             }
         },
         {
@@ -589,9 +589,9 @@
             },
             "properties": {
                 "name": "Cicles Jopa Bike",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Rodrigo De Araya 3214"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Rodrigo De Araya 3214"
             }
         },
         {
@@ -606,9 +606,9 @@
             },
             "properties": {
                 "name": "Silva",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Vicuña Mackenna 1469"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Vicuña Mackenna 1469"
             }
         },
         {
@@ -623,8 +623,8 @@
             },
             "properties": {
                 "name": "Dr. Pedro Lautaro Ferrer 2810",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -639,9 +639,9 @@
             },
             "properties": {
                 "name": "Araya",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Maule 443"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Maule 443"
             }
         },
         {
@@ -656,9 +656,9 @@
             },
             "properties": {
                 "name": "El Tigre",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Tagua Tagua 8398"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Tagua Tagua 8398"
             }
         },
         {
@@ -673,8 +673,8 @@
             },
             "properties": {
                 "name": "Fray Camilo Henríquez 696",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -689,9 +689,9 @@
             },
             "properties": {
                 "name": "Cicles El Rayo",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Pedro Fontova 3987"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Pedro Fontova 3987"
             }
         },
         {
@@ -706,9 +706,9 @@
             },
             "properties": {
                 "name": "Ramírez",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Gral. Bulnes 1429"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Gral. Bulnes 1429"
             }
         },
         {
@@ -723,9 +723,9 @@
             },
             "properties": {
                 "name": "Nautika",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Irarrázaval 3808"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Irarrázaval 3808"
             }
         },
         {
@@ -740,8 +740,8 @@
             },
             "properties": {
                 "name": "Pocónchile 3395",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -756,9 +756,9 @@
             },
             "properties": {
                 "name": "Don Juan",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Gracia 6451"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Gracia 6451"
             }
         },
         {
@@ -773,9 +773,9 @@
             },
             "properties": {
                 "name": "Tern Bicycles",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Las Condes 7085"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Las Condes 7085"
             }
         },
         {
@@ -790,9 +790,9 @@
             },
             "properties": {
                 "name": "Bicicletas A.R.E.",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Clemente Fabres 1272"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Clemente Fabres 1272"
             }
         },
         {
@@ -807,8 +807,8 @@
             },
             "properties": {
                 "name": "Clínica de Bicicletas",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -823,9 +823,9 @@
             },
             "properties": {
                 "name": "You Bike",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Simón Bolivar 4536"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Simón Bolivar 4536"
             }
         },
         {
@@ -840,8 +840,8 @@
             },
             "properties": {
                 "name": "Grito Bikes",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -856,9 +856,9 @@
             },
             "properties": {
                 "name": "Eurocycles",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Las Condes 12265"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Las Condes 12265"
             }
         },
         {
@@ -873,9 +873,9 @@
             },
             "properties": {
                 "name": "Bicicletas Lascon",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Irarrazaval 2785"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Irarrazaval 2785"
             }
         },
         {
@@ -890,9 +890,9 @@
             },
             "properties": {
                 "name": "Ciclo Service",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Simón Bolivar 3751"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Simón Bolivar 3751"
             }
         },
         {
@@ -907,9 +907,9 @@
             },
             "properties": {
                 "name": "Evo Bikes",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "La Florida 8511"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "La Florida 8511"
             }
         },
         {
@@ -924,9 +924,9 @@
             },
             "properties": {
                 "name": "Monster",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Perpetua Freire 1422"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Perpetua Freire 1422"
             }
         },
         {
@@ -941,9 +941,9 @@
             },
             "properties": {
                 "name": "Cycles Roca's",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Santa Raquel 8765"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Santa Raquel 8765"
             }
         },
         {
@@ -958,9 +958,9 @@
             },
             "properties": {
                 "name": "La Bicicleta Verde",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Loreto 6"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Loreto 6"
             }
         },
         {
@@ -975,9 +975,9 @@
             },
             "properties": {
                 "name": "Citycleta",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "República De Cuba 1730"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "República De Cuba 1730"
             }
         },
         {
@@ -992,9 +992,9 @@
             },
             "properties": {
                 "name": "Cicles Villa",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Walker Martínez 1657"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Walker Martínez 1657"
             }
         },
         {
@@ -1009,9 +1009,9 @@
             },
             "properties": {
                 "name": "Cicles Villa sucursal",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Walker Martínez 1874"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Walker Martínez 1874"
             }
         },
         {
@@ -1026,9 +1026,9 @@
             },
             "properties": {
                 "name": "Bicimundo",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Vitacura 4868"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Vitacura 4868"
             }
         },
         {
@@ -1043,9 +1043,9 @@
             },
             "properties": {
                 "name": "Con El Ciclismo En La Sangre",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Los Pajaritos 4982 loc. 1-A"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Los Pajaritos 4982 loc. 1-A"
             }
         },
         {
@@ -1060,9 +1060,9 @@
             },
             "properties": {
                 "name": "Mafa Bike",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Manuel Rodríguez 3457"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Manuel Rodríguez 3457"
             }
         },
         {
@@ -1077,9 +1077,9 @@
             },
             "properties": {
                 "name": "Cycles Ferry",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Recoleta 4088"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Recoleta 4088"
             }
         },
         {
@@ -1094,9 +1094,9 @@
             },
             "properties": {
                 "name": "Acuña",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Gran Avenida 7113"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Gran Avenida 7113"
             }
         },
         {
@@ -1111,9 +1111,9 @@
             },
             "properties": {
                 "name": "Catejo",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Ramón Cruz 3161"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Ramón Cruz 3161"
             }
         },
         {
@@ -1128,9 +1128,9 @@
             },
             "properties": {
                 "name": "Ciclismo Para Todos",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Independencia 3709"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Independencia 3709"
             }
         },
         {
@@ -1145,9 +1145,9 @@
             },
             "properties": {
                 "name": "Rafael Burgos",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Arturo Prat 1032"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Arturo Prat 1032"
             }
         },
         {
@@ -1162,9 +1162,9 @@
             },
             "properties": {
                 "name": "Club Mini Cic",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Alvarez De Toledo 1050"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Alvarez De Toledo 1050"
             }
         },
         {
@@ -1179,9 +1179,9 @@
             },
             "properties": {
                 "name": "La Casa De La Bicicleta",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Alameda 3435"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Alameda 3435"
             }
         },
         {
@@ -1196,9 +1196,9 @@
             },
             "properties": {
                 "name": "Fuentes Acuña",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Concha Y Toro 4299"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Concha Y Toro 4299"
             }
         },
         {
@@ -1213,9 +1213,9 @@
             },
             "properties": {
                 "name": "La Mini",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Alfredo Silva Carvallo 1341"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Alfredo Silva Carvallo 1341"
             }
         },
         {
@@ -1230,9 +1230,9 @@
             },
             "properties": {
                 "name": "Origan sucursal Alameda",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Alameda 3559"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Alameda 3559"
             }
         },
         {
@@ -1247,8 +1247,8 @@
             },
             "properties": {
                 "name": "Relacionador Aránguiz 680",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -1263,9 +1263,9 @@
             },
             "properties": {
                 "name": "La Bicicleta",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Walker Martínez 232 loc. 5"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Walker Martínez 232 loc. 5"
             }
         },
         {
@@ -1280,8 +1280,8 @@
             },
             "properties": {
                 "name": "El Pino 78",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -1296,8 +1296,8 @@
             },
             "properties": {
                 "name": "Marcela Paz 3489",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -1312,8 +1312,8 @@
             },
             "properties": {
                 "name": "5 De Abril 437",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -1328,9 +1328,9 @@
             },
             "properties": {
                 "name": "Zeev-Bike",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Tres Poniente 465"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Tres Poniente 465"
             }
         },
         {
@@ -1345,9 +1345,9 @@
             },
             "properties": {
                 "name": "Cicles Max Mercury",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Lo Espinoza 2893"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Lo Espinoza 2893"
             }
         },
         {
@@ -1362,9 +1362,9 @@
             },
             "properties": {
                 "name": "Jordano",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Gral. Bulnes 1025"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Gral. Bulnes 1025"
             }
         },
         {
@@ -1379,9 +1379,9 @@
             },
             "properties": {
                 "name": "Ragazza",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Gran Avenida 6670"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Gran Avenida 6670"
             }
         },
         {
@@ -1396,9 +1396,9 @@
             },
             "properties": {
                 "name": "Euskadi",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "García Reyes 5"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "García Reyes 5"
             }
         },
         {
@@ -1413,8 +1413,8 @@
             },
             "properties": {
                 "name": "Santa Valentina 11017",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -1429,8 +1429,8 @@
             },
             "properties": {
                 "name": "El Pinar 157",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -1445,8 +1445,8 @@
             },
             "properties": {
                 "name": "Los Zapadores 904",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -1461,9 +1461,9 @@
             },
             "properties": {
                 "name": "Sparton",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Santa Rosa 7942"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Santa Rosa 7942"
             }
         },
         {
@@ -1478,8 +1478,8 @@
             },
             "properties": {
                 "name": "Santa Rosa 6518",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -1494,9 +1494,9 @@
             },
             "properties": {
                 "name": "Bici Boss",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Apoquindo 7474"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Apoquindo 7474"
             }
         },
         {
@@ -1511,9 +1511,9 @@
             },
             "properties": {
                 "name": "Arias",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "José Joaquín Pérez 7203"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "José Joaquín Pérez 7203"
             }
         },
         {
@@ -1528,9 +1528,9 @@
             },
             "properties": {
                 "name": "Muñoz",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Santa Rosa 9290"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Santa Rosa 9290"
             }
         },
         {
@@ -1545,9 +1545,9 @@
             },
             "properties": {
                 "name": "Cycles Florida",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Walker Martínez 680"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Walker Martínez 680"
             }
         },
         {
@@ -1562,9 +1562,9 @@
             },
             "properties": {
                 "name": "Champion",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "José Joaquín Pérez 8439"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "José Joaquín Pérez 8439"
             }
         },
         {
@@ -1579,9 +1579,9 @@
             },
             "properties": {
                 "name": "Wilson",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Vicuña Mackenna Oriente 9842, loc. D"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Vicuña Mackenna Oriente 9842, loc. D"
             }
         },
         {
@@ -1596,9 +1596,9 @@
             },
             "properties": {
                 "name": "Wilson N° 4",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Vicuña Mackenna 10197"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Vicuña Mackenna 10197"
             }
         },
         {
@@ -1613,9 +1613,9 @@
             },
             "properties": {
                 "name": "Urra",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Irarrázaval 4998"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Irarrázaval 4998"
             }
         },
         {
@@ -1630,9 +1630,9 @@
             },
             "properties": {
                 "name": "Sandoval",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Eyzaguirre 270-A"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Eyzaguirre 270-A"
             }
         },
         {
@@ -1647,9 +1647,9 @@
             },
             "properties": {
                 "name": "Cycles Burgos",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Luis Lazzarini 7447"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Luis Lazzarini 7447"
             }
         },
         {
@@ -1664,9 +1664,9 @@
             },
             "properties": {
                 "name": "El Rápido",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "María Elena 770"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "María Elena 770"
             }
         },
         {
@@ -1681,9 +1681,9 @@
             },
             "properties": {
                 "name": "Pastene",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Milán 1439"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Milán 1439"
             }
         },
         {
@@ -1698,9 +1698,9 @@
             },
             "properties": {
                 "name": "El Pelao",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Vecinal Oriente 13375"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Vecinal Oriente 13375"
             }
         },
         {
@@ -1715,9 +1715,9 @@
             },
             "properties": {
                 "name": "Huguito",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "San Francisco 10515"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "San Francisco 10515"
             }
         },
         {
@@ -1732,9 +1732,9 @@
             },
             "properties": {
                 "name": "San Luis",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Antonio Bórquez Del Solar 9798"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Antonio Bórquez Del Solar 9798"
             }
         },
         {
@@ -1749,9 +1749,9 @@
             },
             "properties": {
                 "name": "La Chili",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Grecia 6432"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Grecia 6432"
             }
         },
         {
@@ -1766,9 +1766,9 @@
             },
             "properties": {
                 "name": "Rodeco",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Matuca 10, loc. A"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Matuca 10, loc. A"
             }
         },
         {
@@ -1783,9 +1783,9 @@
             },
             "properties": {
                 "name": "Nataniel Cox",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Nataniel Cox 2069"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Nataniel Cox 2069"
             }
         },
         {
@@ -1800,9 +1800,9 @@
             },
             "properties": {
                 "name": "Mingo",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Grecia 6934"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Grecia 6934"
             }
         },
         {
@@ -1817,9 +1817,9 @@
             },
             "properties": {
                 "name": "La Chancha Bique",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Carrascal 4814"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Carrascal 4814"
             }
         },
         {
@@ -1834,9 +1834,9 @@
             },
             "properties": {
                 "name": "El Salto",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "El Salto 3260"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "El Salto 3260"
             }
         },
         {
@@ -1851,9 +1851,9 @@
             },
             "properties": {
                 "name": "Central Bici",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "General Gambino 3980"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "General Gambino 3980"
             }
         },
         {
@@ -1868,9 +1868,9 @@
             },
             "properties": {
                 "name": "Luchita",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Condell 1298"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Condell 1298"
             }
         },
         {
@@ -1885,9 +1885,9 @@
             },
             "properties": {
                 "name": "Cycles Hilda",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Tres Poniente 2761"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Tres Poniente 2761"
             }
         },
         {
@@ -1902,9 +1902,9 @@
             },
             "properties": {
                 "name": "Virgen De La Puerta",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Recoleta 573 A"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Recoleta 573 A"
             }
         },
         {
@@ -1919,8 +1919,8 @@
             },
             "properties": {
                 "name": "Taller",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -1935,9 +1935,9 @@
             },
             "properties": {
                 "name": "Don Hugo",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Los Fiordos 9882"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Los Fiordos 9882"
             }
         },
         {
@@ -1952,8 +1952,8 @@
             },
             "properties": {
                 "name": "Centenario 352",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -1968,8 +1968,8 @@
             },
             "properties": {
                 "name": "Nataniel 902",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -1984,9 +1984,9 @@
             },
             "properties": {
                 "name": "Rolando",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "San Pablo 4941"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "San Pablo 4941"
             }
         },
         {
@@ -2001,8 +2001,8 @@
             },
             "properties": {
                 "name": "Pelantaro 2372",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -2017,9 +2017,9 @@
             },
             "properties": {
                 "name": "Universo",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Los Morros 11650 B"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Los Morros 11650 B"
             }
         },
         {
@@ -2034,9 +2034,9 @@
             },
             "properties": {
                 "name": "Finisterra",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Catorce De La Fama 2584"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Catorce De La Fama 2584"
             }
         },
         {
@@ -2051,9 +2051,9 @@
             },
             "properties": {
                 "name": "Cicles Moisés",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Santa Rosa 6428"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Santa Rosa 6428"
             }
         },
         {
@@ -2068,9 +2068,9 @@
             },
             "properties": {
                 "name": "Bicicletería",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Prieto 1014"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Prieto 1014"
             }
         },
         {
@@ -2085,8 +2085,8 @@
             },
             "properties": {
                 "name": "Mall Sport",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -2101,9 +2101,9 @@
             },
             "properties": {
                 "name": "Pro Cycles",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Lago Yelcho 05208"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Lago Yelcho 05208"
             }
         },
         {
@@ -2118,9 +2118,9 @@
             },
             "properties": {
                 "name": "Rave",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Gluck 3264"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Gluck 3264"
             }
         },
         {
@@ -2135,9 +2135,9 @@
             },
             "properties": {
                 "name": "El Chavo",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Sargento Menadier 379"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Sargento Menadier 379"
             }
         },
         {
@@ -2152,9 +2152,9 @@
             },
             "properties": {
                 "name": "Casanova",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Domingo Santa María 3623"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Domingo Santa María 3623"
             }
         },
         {
@@ -2169,9 +2169,9 @@
             },
             "properties": {
                 "name": "Fernández",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "José Manuel Balmaceda 4273"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "José Manuel Balmaceda 4273"
             }
         },
         {
@@ -2186,9 +2186,9 @@
             },
             "properties": {
                 "name": "Dinneli",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Santo Domingo 128"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Santo Domingo 128"
             }
         },
         {
@@ -2203,9 +2203,9 @@
             },
             "properties": {
                 "name": "Mi Bendición",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Los Mercedarios 0799 dpto. 413"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Los Mercedarios 0799 dpto. 413"
             }
         },
         {
@@ -2220,9 +2220,9 @@
             },
             "properties": {
                 "name": "David Ramírez",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Gabriela Oriente 01134"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Gabriela Oriente 01134"
             }
         },
         {
@@ -2237,8 +2237,8 @@
             },
             "properties": {
                 "name": "Bomberos De Puente Alto 2063",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -2253,9 +2253,9 @@
             },
             "properties": {
                 "name": "Cicles Pavez sucursal Los Tricahues",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Los Tricahues 1430"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Los Tricahues 1430"
             }
         },
         {
@@ -2270,9 +2270,9 @@
             },
             "properties": {
                 "name": "Tuercas Cycles",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "General Velásquez 1296"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "General Velásquez 1296"
             }
         },
         {
@@ -2287,9 +2287,9 @@
             },
             "properties": {
                 "name": "Eco Bike sucursal La Reina",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Príncipe de Gales 6469"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Príncipe de Gales 6469"
             }
         },
         {
@@ -2304,9 +2304,9 @@
             },
             "properties": {
                 "name": "Eco Bike sucursal Peñalolén",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Consistorial 3485, loc. 4"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Consistorial 3485, loc. 4"
             }
         },
         {
@@ -2321,9 +2321,9 @@
             },
             "properties": {
                 "name": "Altered sucursal La Reina",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Jorge Alessandri 1131, loc. 18"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Jorge Alessandri 1131, loc. 18"
             }
         },
         {
@@ -2338,9 +2338,9 @@
             },
             "properties": {
                 "name": "Bird Bike",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Irarrázaval 908"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Irarrázaval 908"
             }
         },
         {
@@ -2355,9 +2355,9 @@
             },
             "properties": {
                 "name": "Allegro",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Parina 9600"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Parina 9600"
             }
         },
         {
@@ -2372,9 +2372,9 @@
             },
             "properties": {
                 "name": "Pedro De Valdivia",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Pedro De Valdivia 5838"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Pedro De Valdivia 5838"
             }
         },
         {
@@ -2389,9 +2389,9 @@
             },
             "properties": {
                 "name": "Service Center",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Estacionamiento Parque Arauco"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Estacionamiento Parque Arauco"
             }
         },
         {
@@ -2406,8 +2406,8 @@
             },
             "properties": {
                 "name": "Las Encinas, Casa V",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -2422,9 +2422,9 @@
             },
             "properties": {
                 "name": "Kyv Cycling",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Lo Beltrán 1979"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Lo Beltrán 1979"
             }
         },
         {
@@ -2439,9 +2439,9 @@
             },
             "properties": {
                 "name": "Wilson N° 1",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Enrique Olivares 1256"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Enrique Olivares 1256"
             }
         },
         {
@@ -2456,9 +2456,9 @@
             },
             "properties": {
                 "name": "LGM",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Quilín 3139"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Quilín 3139"
             }
         },
         {
@@ -2473,9 +2473,9 @@
             },
             "properties": {
                 "name": "Bikespot",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Apoquindo 4900 loc. 18"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Apoquindo 4900 loc. 18"
             }
         },
         {
@@ -2490,9 +2490,9 @@
             },
             "properties": {
                 "name": "Speed Light",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Cuarto Centenario 1015"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Cuarto Centenario 1015"
             }
         },
         {
@@ -2507,9 +2507,9 @@
             },
             "properties": {
                 "name": "Sportxperts",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Las Condes 12340 loc. 5"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Las Condes 12340 loc. 5"
             }
         },
         {
@@ -2524,9 +2524,9 @@
             },
             "properties": {
                 "name": "Kamaleon Bikes",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Crescente Errázuriz 335"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Crescente Errázuriz 335"
             }
         },
         {
@@ -2541,9 +2541,9 @@
             },
             "properties": {
                 "name": "Ride a Bike",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Vasco De Gama 5527"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Vasco De Gama 5527"
             }
         },
         {
@@ -2558,9 +2558,9 @@
             },
             "properties": {
                 "name": "BeCykel",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Italia 1194, loc. 5"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Italia 1194, loc. 5"
             }
         },
         {
@@ -2575,9 +2575,9 @@
             },
             "properties": {
                 "name": "Conaride",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Irarrázaval 1556"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Irarrázaval 1556"
             }
         },
         {
@@ -2592,9 +2592,9 @@
             },
             "properties": {
                 "name": "Yagan Bike",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Tobalaba 4555"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Tobalaba 4555"
             }
         },
         {
@@ -2609,9 +2609,9 @@
             },
             "properties": {
                 "name": "Sucucho",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Rancagua 188"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Rancagua 188"
             }
         },
         {
@@ -2626,9 +2626,9 @@
             },
             "properties": {
                 "name": "Tri-Ciclo",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Luis Beltrán 1895"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Luis Beltrán 1895"
             }
         },
         {
@@ -2643,8 +2643,8 @@
             },
             "properties": {
                 "name": "Taller",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -2659,9 +2659,9 @@
             },
             "properties": {
                 "name": "Planett",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Buenos Aires 291"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Buenos Aires 291"
             }
         },
         {
@@ -2676,9 +2676,9 @@
             },
             "properties": {
                 "name": "Bicis.cl",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Barranquilla 692"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Barranquilla 692"
             }
         },
         {
@@ -2693,9 +2693,9 @@
             },
             "properties": {
                 "name": "Lobo Bikes",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Diagonal Rancagua 980"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Diagonal Rancagua 980"
             }
         },
         {
@@ -2710,9 +2710,9 @@
             },
             "properties": {
                 "name": "Alemany Retro Cycles",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Romeo 4533"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Romeo 4533"
             }
         },
         {
@@ -2727,9 +2727,9 @@
             },
             "properties": {
                 "name": "La Bicicletería",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Santa Marta 7124"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Santa Marta 7124"
             }
         },
         {
@@ -2744,9 +2744,9 @@
             },
             "properties": {
                 "name": "Belda",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Mall Plaza Vespucio loc. D-125"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Mall Plaza Vespucio loc. D-125"
             }
         },
         {
@@ -2761,9 +2761,9 @@
             },
             "properties": {
                 "name": "BC-Help",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Holanda 079 loc. 211"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Holanda 079 loc. 211"
             }
         },
         {
@@ -2778,9 +2778,9 @@
             },
             "properties": {
                 "name": "Origan sucursal Apoquindo",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Apoquindo 7072"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Apoquindo 7072"
             }
         },
         {
@@ -2795,9 +2795,9 @@
             },
             "properties": {
                 "name": "Nación Pedal",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Dr. Manuel Barros Borgoño 20"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Dr. Manuel Barros Borgoño 20"
             }
         },
         {
@@ -2812,9 +2812,9 @@
             },
             "properties": {
                 "name": "Enviro",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Condell 1342"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Condell 1342"
             }
         },
         {
@@ -2829,9 +2829,9 @@
             },
             "properties": {
                 "name": "Akela Bikes",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Mariano Sánchez Fontecilla 1998, loc. 4"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Mariano Sánchez Fontecilla 1998, loc. 4"
             }
         },
         {
@@ -2846,9 +2846,9 @@
             },
             "properties": {
                 "name": "Niubikes sucursal Lautaro Ferrer",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Holanda 2808"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Holanda 2808"
             }
         },
         {
@@ -2863,9 +2863,9 @@
             },
             "properties": {
                 "name": "La Máquina Maravillosa",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Ayacucho 477"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Ayacucho 477"
             }
         },
         {
@@ -2880,9 +2880,9 @@
             },
             "properties": {
                 "name": "Don Nico",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Providencia 2594 loc. Z7"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Providencia 2594 loc. Z7"
             }
         },
         {
@@ -2897,9 +2897,9 @@
             },
             "properties": {
                 "name": "Pedalea Beaucheff",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Tupper 2140"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Tupper 2140"
             }
         },
         {
@@ -2914,9 +2914,9 @@
             },
             "properties": {
                 "name": "Esquina B.A.R.",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Gral. Baquedano 557"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Gral. Baquedano 557"
             }
         },
         {
@@ -2931,9 +2931,9 @@
             },
             "properties": {
                 "name": "Niubikes sucursal Echeñique",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Echeñique 4366"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Echeñique 4366"
             }
         },
         {
@@ -2948,9 +2948,9 @@
             },
             "properties": {
                 "name": "Torres de Fleming",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Florencio Barrios 1685, Torre 4 loc. 4"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Florencio Barrios 1685, Torre 4 loc. 4"
             }
         },
         {
@@ -2965,9 +2965,9 @@
             },
             "properties": {
                 "name": "Astorga",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Esmeralda 24"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Esmeralda 24"
             }
         },
         {
@@ -2982,9 +2982,9 @@
             },
             "properties": {
                 "name": "Cicles Pavéz sucursal La Florida",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "La Florida 1149"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "La Florida 1149"
             }
         },
         {
@@ -2999,9 +2999,9 @@
             },
             "properties": {
                 "name": "Fuentes",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "José Miguel Infante 5501"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "José Miguel Infante 5501"
             }
         },
         {
@@ -3016,9 +3016,9 @@
             },
             "properties": {
                 "name": "Patricio Martínez",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Apoquindo 5681 (Caracol Vip's, loc. 3)"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Apoquindo 5681 (Caracol Vip's, loc. 3)"
             }
         },
         {
@@ -3033,9 +3033,9 @@
             },
             "properties": {
                 "name": "Rueda La Bolañera ",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Maturana 302"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Maturana 302"
             }
         },
         {
@@ -3050,9 +3050,9 @@
             },
             "properties": {
                 "name": "Jamanco Kike",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Fermín Vivaceta 1276 A"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Fermín Vivaceta 1276 A"
             }
         },
         {
@@ -3067,9 +3067,9 @@
             },
             "properties": {
                 "name": "Paolo",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Las Parcelas 9000 D"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Las Parcelas 9000 D"
             }
         },
         {
@@ -3084,9 +3084,9 @@
             },
             "properties": {
                 "name": "La Ruta Barata",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Bellavista 0583"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Bellavista 0583"
             }
         },
         {
@@ -3101,9 +3101,9 @@
             },
             "properties": {
                 "name": "Cycles Jara",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Los Diamantes 506"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Los Diamantes 506"
             }
         },
         {
@@ -3118,9 +3118,9 @@
             },
             "properties": {
                 "name": "César",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Victor Manuel 2210, sector 1, loc. 1-A / 2230 sector 5, loc. 347-A"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Victor Manuel 2210, sector 1, loc. 1-A / 2230 sector 5, loc. 347-A"
             }
         },
         {
@@ -3135,9 +3135,9 @@
             },
             "properties": {
                 "name": "Moreno y Moreno",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Tres Poniente 8089"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Tres Poniente 8089"
             }
         },
         {
@@ -3152,9 +3152,9 @@
             },
             "properties": {
                 "name": "Drais",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Italia 1609"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Italia 1609"
             }
         },
         {
@@ -3169,9 +3169,9 @@
             },
             "properties": {
                 "name": "Voltaire",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "San Isidro 672"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "San Isidro 672"
             }
         },
         {
@@ -3186,9 +3186,9 @@
             },
             "properties": {
                 "name": "Don Carlos",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Las Parcelas 9002"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Las Parcelas 9002"
             }
         },
         {
@@ -3203,9 +3203,9 @@
             },
             "properties": {
                 "name": "Marchant",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Cueto 751"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Cueto 751"
             }
         },
         {
@@ -3220,9 +3220,9 @@
             },
             "properties": {
                 "name": "Cycles Hoffens",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Rodrigo De Araya 2140"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Rodrigo De Araya 2140"
             }
         },
         {
@@ -3237,9 +3237,9 @@
             },
             "properties": {
                 "name": "San Martín",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Lago General Carrera 8"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Lago General Carrera 8"
             }
         },
         {
@@ -3254,9 +3254,9 @@
             },
             "properties": {
                 "name": "Rios",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Gran Avenida 13694 loc. J-23"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Gran Avenida 13694 loc. J-23"
             }
         },
         {
@@ -3271,9 +3271,9 @@
             },
             "properties": {
                 "name": "Ciclo Servy",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Alfredo Silva Carvallo 1967"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Alfredo Silva Carvallo 1967"
             }
         },
         {
@@ -3288,9 +3288,9 @@
             },
             "properties": {
                 "name": "Leobike",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Santa Zita 9115"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Santa Zita 9115"
             }
         },
         {
@@ -3305,9 +3305,9 @@
             },
             "properties": {
                 "name": "Skull Bike",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Tucapel 239"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Tucapel 239"
             }
         },
         {
@@ -3322,9 +3322,9 @@
             },
             "properties": {
                 "name": "Carlos Leyton",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Luis Thayer Ojeda 166 of. 705"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Luis Thayer Ojeda 166 of. 705"
             }
         },
         {
@@ -3339,9 +3339,9 @@
             },
             "properties": {
                 "name": "Ezu",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Bellavista 185"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Bellavista 185"
             }
         },
         {
@@ -3356,9 +3356,9 @@
             },
             "properties": {
                 "name": "Chen - Yowzhichen",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Escritores De Chile 4088"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Escritores De Chile 4088"
             }
         },
         {
@@ -3373,9 +3373,9 @@
             },
             "properties": {
                 "name": "La Tremenda",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Juan De Montero 13666"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Juan De Montero 13666"
             }
         },
         {
@@ -3390,9 +3390,9 @@
             },
             "properties": {
                 "name": "La Ruta Del Ciclista",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Trinidad 1593"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Trinidad 1593"
             }
         },
         {
@@ -3407,9 +3407,9 @@
             },
             "properties": {
                 "name": "Purísima De Lo Vásquez",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "San Luis 4877"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "San Luis 4877"
             }
         },
         {
@@ -3424,8 +3424,8 @@
             },
             "properties": {
                 "name": "Lo Marcoleta 505",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3440,9 +3440,9 @@
             },
             "properties": {
                 "name": "Julio Henríquez",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Recoleta 5949"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Recoleta 5949"
             }
         },
         {
@@ -3457,8 +3457,8 @@
             },
             "properties": {
                 "name": "Vicente Pérez Rosales 378",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3473,8 +3473,8 @@
             },
             "properties": {
                 "name": "Salvador 1863",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3489,9 +3489,9 @@
             },
             "properties": {
                 "name": "Cycles Gómez",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Enrique Molina 4647"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Enrique Molina 4647"
             }
         },
         {
@@ -3506,8 +3506,8 @@
             },
             "properties": {
                 "name": "José Francisco Vergara 99-B",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3522,8 +3522,8 @@
             },
             "properties": {
                 "name": "Alameda 4305",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3538,8 +3538,8 @@
             },
             "properties": {
                 "name": "Las Torres 463",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3554,8 +3554,8 @@
             },
             "properties": {
                 "name": "Luis Matte Larraín 1818",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3570,8 +3570,8 @@
             },
             "properties": {
                 "name": "Obispo Rodríguez 5934",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3586,9 +3586,9 @@
             },
             "properties": {
                 "name": "El Negro",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Cuatro Poniente 2029"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Cuatro Poniente 2029"
             }
         },
         {
@@ -3603,8 +3603,8 @@
             },
             "properties": {
                 "name": "La Serena 421",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3619,8 +3619,8 @@
             },
             "properties": {
                 "name": "Héctor Gajardo 619",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3635,8 +3635,8 @@
             },
             "properties": {
                 "name": "Los Morros 13236",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3651,8 +3651,8 @@
             },
             "properties": {
                 "name": "Algarrobal 1915",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3667,8 +3667,8 @@
             },
             "properties": {
                 "name": "Cacique Vitacura 2140",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3683,8 +3683,8 @@
             },
             "properties": {
                 "name": "Del Ferrocarril 1999",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3699,8 +3699,8 @@
             },
             "properties": {
                 "name": "Central 6078",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3715,8 +3715,8 @@
             },
             "properties": {
                 "name": "Departamental 299",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3731,8 +3731,8 @@
             },
             "properties": {
                 "name": "San Jorge 499",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3747,8 +3747,8 @@
             },
             "properties": {
                 "name": "Bulnes 1329",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3763,9 +3763,9 @@
             },
             "properties": {
                 "name": "María Teresa Carmona",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Valenzuela Castillo 1028"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Valenzuela Castillo 1028"
             }
         },
         {
@@ -3780,9 +3780,9 @@
             },
             "properties": {
                 "name": "Osorio",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Aníbal Pinto 9257"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Aníbal Pinto 9257"
             }
         },
         {
@@ -3797,9 +3797,9 @@
             },
             "properties": {
                 "name": "Muhr Bikes",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a",
-                "description": "Detrás de las torres"
+                "marker-symbol": "bicycle",
+                "marker-size": "small",
+                "address": "Detrás de las torres"
             }
         },
         {
@@ -3814,8 +3814,8 @@
             },
             "properties": {
                 "name": "Juan Lagos",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3830,8 +3830,8 @@
             },
             "properties": {
                 "name": "Bilbao",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         },
         {
@@ -3846,8 +3846,8 @@
             },
             "properties": {
                 "name": "General Prieto",
-                "styleUrl": "#icon-22",
-                "styleHash": "7691a22a"
+                "marker-symbol": "bicycle",
+                "marker-size": "small"
             }
         }
     ]
