@@ -1,0 +1,3854 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.648659,
+                    -33.434595,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Una Velocidad",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Esmeralda 775"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.60411,
+                    -33.419642,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Holanda",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Holanda 29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64967,
+                    -33.456309,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "San Diego",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.585259,
+                    -33.458115,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Taller",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Dublé Almeyda 4294"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.558212,
+                    -33.405216,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Peter Tormen",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Las Condes 7030"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.616681,
+                    -33.426821000000004,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eduardo Silva",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Antonio Bellet 29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.567956,
+                    -33.453225,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bicicletería",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Larraín 6000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.564944,
+                    -33.452863,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Egaña",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Larraín 6280"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.592223,
+                    -33.448517,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Café La Bicicleta",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Simón Bolivar 3742"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61963400000002,
+                    -33.444513,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Infante",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "José Manuel Infante 1462"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.516825,
+                    -33.372994,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cannondale",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Nueva Las Condes 12375"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.549001,
+                    -33.387904,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Giant",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Padre Hurtado 1137"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.552914,
+                    -33.429212,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manuel Martínez",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Polcura 1925"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.544651,
+                    -33.390144,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Chancha Pig",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Gilberto Fuenzalida 205"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.624087,
+                    -33.452917,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arjuna",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Irarrázaval 647"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.553097,
+                    -33.430515,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Avilés",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Bilbao 7529"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.635658,
+                    -33.430985,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "López",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Cerrito 271"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.553148,
+                    -33.416338,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Urban Cycling",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Tomás Moro 885"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67985,
+                    -33.385342,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cycles Alexander",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Fermín Vivaceta 4790"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.620002,
+                    -33.44691,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beltrán",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Luis Beltrán 1563"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.616236,
+                    -33.436531,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oxford sucursal Providencia",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Manuel Montt 933"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.564016,
+                    -33.386471,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oxford sucursal Vitacura",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Vitacura 7163"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.572756,
+                    -33.453474,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bicioutlet sucursal Ñuñoa",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Irarrázaval 5515"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.577897,
+                    -33.425285,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bicioulet sucursal Las Condes",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Vaticano 4391"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.56925700000001,
+                    -33.389458,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Echard Bike",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Vitacura 6459"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.692293,
+                    -33.445639,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brabus",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Apóstol Santiago 440"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.648964,
+                    -33.466159000000005,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mena",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Pedro Lagos 1112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.57096,
+                    -33.452144,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Valber",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Ossa 146"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.598989,
+                    -33.495575,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Urrutia",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Macul 4595"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.561389,
+                    -33.445031,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Servi Bike",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Monseñor Edwards 1024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.566924,
+                    -33.417257,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Altered sucursal Las Condes",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Cristobal Colón 5831"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.564612,
+                    -33.387616,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Altered sucursal Vitacura",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Gerónimo de Alderete 1651"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.653776,
+                    -33.473588,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Franklin 1472",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.593542,
+                    -33.473773,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Cóndor",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Rodrigo De Araya 3673"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.598322,
+                    -33.47365,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cicles Jopa Bike",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Rodrigo De Araya 3214"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.627834,
+                    -33.462407,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Silva",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Vicuña Mackenna 1469"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.602087,
+                    -33.444923,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dr. Pedro Lautaro Ferrer 2810",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.635669,
+                    -33.465922,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Araya",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Maule 443"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.544369,
+                    -33.473294,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Tigre",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Tagua Tagua 8398"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.633446,
+                    -33.45145,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fray Camilo Henríquez 696",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67035,
+                    -33.39046,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cicles El Rayo",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Pedro Fontova 3987"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.671696,
+                    -33.429315,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ramírez",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Gral. Bulnes 1429"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.589289,
+                    -33.45544,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nautika",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Irarrázaval 3808"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.59650000000002,
+                    -33.474054,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pocónchile 3395",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.567876,
+                    -33.471023,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Don Juan",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Gracia 6451"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.557781,
+                    -33.404953,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tern Bicycles",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Las Condes 7085"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.615301,
+                    -33.441637,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bicicletas A.R.E.",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Clemente Fabres 1272"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.573519,
+                    -33.469878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Clínica de Bicicletas",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.5832,
+                    -33.448375,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "You Bike",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Simón Bolivar 4536"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.626416,
+                    -33.444125,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grito Bikes",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.518056,
+                    -33.372945,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eurocycles",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Las Condes 12265"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.602139,
+                    -33.454469,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bicicletas Lascon",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Irarrazaval 2785"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.591681,
+                    -33.448504,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ciclo Service",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Simón Bolivar 3751"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.575786,
+                    -33.529916,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Evo Bikes",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "La Florida 8511"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.580858,
+                    -33.529939,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Monster",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Perpetua Freire 1422"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.603412,
+                    -33.535428,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cycles Roca's",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Santa Raquel 8765"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.642668,
+                    -33.433927,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Bicicleta Verde",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Loreto 6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.591078,
+                    -33.431624,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Citycleta",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "República De Cuba 1730"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.580184,
+                    -33.522576,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cicles Villa",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Walker Martínez 1657"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.577784,
+                    -33.522361,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cicles Villa sucursal",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Walker Martínez 1874"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.585594,
+                    -33.397661,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bicimundo",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Vitacura 4868"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.740948,
+                    -33.476022,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Con El Ciclismo En La Sangre",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Los Pajaritos 4982 loc. 1-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.760139,
+                    -33.494974,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mafa Bike",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Manuel Rodríguez 3457"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.642272,
+                    -33.387949,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cycles Ferry",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Recoleta 4088"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.660069,
+                    -33.521476,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Acuña",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Gran Avenida 7113"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.584886,
+                    -33.484344,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Catejo",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Ramón Cruz 3161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.672772,
+                    -33.394461,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ciclismo Para Todos",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Independencia 3709"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.647474,
+                    -33.458018,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rafael Burgos",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Arturo Prat 1032"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.650158,
+                    -33.490153,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Club Mini Cic",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Alvarez De Toledo 1050"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.681577,
+                    -33.451596,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Casa De La Bicicleta",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Alameda 3435"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.584068,
+                    -33.566474,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fuentes Acuña",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Concha Y Toro 4299"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.774481,
+                    -33.531307,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Mini",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Alfredo Silva Carvallo 1341"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.684512,
+                    -33.452247,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Origan sucursal Alameda",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Alameda 3559"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.746117,
+                    -33.44911,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Relacionador Aránguiz 680",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.59719,
+                    -33.522529,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Bicicleta",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Walker Martínez 232 loc. 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.670301,
+                    -33.550176,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Pino 78",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.558263,
+                    -33.527446,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Marcela Paz 3489",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.76287,
+                    -33.510697,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "5 De Abril 437",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.773808,
+                    -33.532034,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Zeev-Bike",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Tres Poniente 465"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.706463,
+                    -33.411553,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cicles Max Mercury",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Lo Espinoza 2893"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.671216,
+                    -33.432968,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jordano",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Gral. Bulnes 1025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.659117,
+                    -33.518651,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ragazza",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Gran Avenida 6670"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.670403,
+                    -33.448165,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Euskadi",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "García Reyes 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.636715,
+                    -33.563415,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Santa Valentina 11017",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.621775,
+                    -33.49175,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Pinar 157",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.646607,
+                    -33.389096,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Los Zapadores 904",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.634851,
+                    -33.531795,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sparton",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Santa Rosa 7942"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.636205,
+                    -33.521748,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Santa Rosa 6518",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.552155,
+                    -33.408369,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bici Boss",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Apoquindo 7474"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.734556,
+                    -33.429534,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arias",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "José Joaquín Pérez 7203"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.633598,
+                    -33.545197,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Muñoz",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Santa Rosa 9290"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.591072,
+                    -33.522647,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cycles Florida",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Walker Martínez 680"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.742209,
+                    -33.429857,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Champion",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "José Joaquín Pérez 8439"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.587958,
+                    -33.546007,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wilson",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Vicuña Mackenna Oriente 9842, loc. D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.586987,
+                    -33.551729,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wilson N° 4",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Vicuña Mackenna 10197"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.577937,
+                    -33.454336,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Urra",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Irarrázaval 4998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.579498,
+                    -33.612665,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sandoval",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Eyzaguirre 270-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.741718,
+                    -33.419846,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cycles Burgos",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Luis Lazzarini 7447"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.595999,
+                    -33.56183,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Rápido",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "María Elena 770"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.735605,
+                    -33.42803,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pastene",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Milán 1439"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67495,
+                    -33.582553,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Pelao",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Vecinal Oriente 13375"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65637,
+                    -33.56033,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Huguito",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "San Francisco 10515"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.683562,
+                    -33.546831,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "San Luis",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Antonio Bórquez Del Solar 9798"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.567661,
+                    -33.470813,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Chili",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Grecia 6432"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.679051,
+                    -33.449956,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rodeco",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Matuca 10, loc. A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.649608,
+                    -33.47305,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nataniel Cox",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Nataniel Cox 2069"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.561339,
+                    -33.472059,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mingo",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Grecia 6934"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.69935,
+                    -33.421357,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Chancha Bique",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Carrascal 4814"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.62696,
+                    -33.397086,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Salto",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "El Salto 3260"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.660777,
+                    -33.385638,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Central Bici",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "General Gambino 3980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.727821,
+                    -33.406571,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Luchita",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Condell 1298"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.77833300000002,
+                    -33.503075,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cycles Hilda",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Tres Poniente 2761"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.645891,
+                    -33.425682,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Virgen De La Puerta",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Recoleta 573 A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.564939,
+                    -33.478274,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Taller",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.574466,
+                    -33.547097,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Don Hugo",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Los Fiordos 9882"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.76148,
+                    -33.499841,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Centenario 352",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.652038,
+                    -33.457392,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nataniel 902",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.703333,
+                    -33.44043,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rolando",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "San Pablo 4941"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.770176,
+                    -33.504095,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pelantaro 2372",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.673268,
+                    -33.570544,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Universo",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Los Morros 11650 B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.676213,
+                    -33.40117000000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Finisterra",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Catorce De La Fama 2584"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.636455,
+                    -33.519557,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cicles Moisés",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Santa Rosa 6428"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65368,
+                    -33.429852,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bicicletería",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Prieto 1014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.506316,
+                    -33.370203,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mall Sport",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.565819,
+                    -33.549889,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pro Cycles",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Lago Yelcho 05208"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.625095,
+                    -33.483122,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rave",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Gluck 3264"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.570609,
+                    -33.615723,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Chavo",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Sargento Menadier 379"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.69511200000001,
+                    -33.408356,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casanova",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Domingo Santa María 3623"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.707611,
+                    -33.403573,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fernández",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "José Manuel Balmaceda 4273"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.577261,
+                    -33.61096,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dinneli",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Santo Domingo 128"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.759026,
+                    -33.361196,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mi Bendición",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Los Mercedarios 0799 dpto. 413"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.569107,
+                    -33.576522,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "David Ramírez",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Gabriela Oriente 01134"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.551091,
+                    -33.611184,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bomberos De Puente Alto 2063",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.56735,
+                    -33.569125,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cicles Pavez sucursal Los Tricahues",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Los Tricahues 1430"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.717884,
+                    -33.405185,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tuercas Cycles",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "General Velásquez 1296"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.565284,
+                    -33.438435,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eco Bike sucursal La Reina",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Príncipe de Gales 6469"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.548969,
+                    -33.487187,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eco Bike sucursal Peñalolén",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Consistorial 3485, loc. 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.546507,
+                    -33.460115,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Altered sucursal La Reina",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Jorge Alessandri 1131, loc. 18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.621622,
+                    -33.453552,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bird Bike",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Irarrázaval 908"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.555109,
+                    -33.540067,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Allegro",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Parina 9600"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.605853,
+                    -33.477494,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pedro De Valdivia",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Pedro De Valdivia 5838"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.5788,
+                    -33.403667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Service Center",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Estacionamiento Parque Arauco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.605985,
+                    -33.4695,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Las Encinas, Casa V",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.566749,
+                    -33.385494,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kyv Cycling",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Lo Beltrán 1979"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.57470700000002,
+                    -33.539678,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wilson N° 1",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Enrique Olivares 1256"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.600114,
+                    -33.48508900000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "LGM",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Quilín 3139"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.57828,
+                    -33.412019,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bikespot",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Apoquindo 4900 loc. 18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.552104,
+                    -33.418805000000006,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Speed Light",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Cuarto Centenario 1015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.517571,
+                    -33.372737,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sportxperts",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Las Condes 12340 loc. 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.625978,
+                    -33.457238,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kamaleon Bikes",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Crescente Errázuriz 335"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.574458,
+                    -33.460722,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ride a Bike",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Vasco De Gama 5527"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.625308,
+                    -33.445561,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "BeCykel",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Italia 1194, loc. 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.614973,
+                    -33.452984,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Conaride",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Irarrázaval 1556"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.58158,
+                    -33.434519,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yagan Bike",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Tobalaba 4555"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.630239,
+                    -33.440958,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sucucho",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Rancagua 188"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.619136,
+                    -33.449875,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tri-Ciclo",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Luis Beltrán 1895"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.560256,
+                    -33.557746,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Taller",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.641791,
+                    -33.427352,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Planett",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Buenos Aires 291"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.581072,
+                    -33.544916,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bicis.cl",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Barranquilla 692"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.619982,
+                    -33.439929,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lobo Bikes",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Diagonal Rancagua 980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.663295,
+                    -33.492882,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alemany Retro Cycles",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Romeo 4533"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.676578,
+                    -33.3573,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Bicicletería",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Santa Marta 7124"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.596862,
+                    -33.516487,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Belda",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Mall Plaza Vespucio loc. D-125"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.604673,
+                    -33.418335,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "BC-Help",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Holanda 079 loc. 211"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.55599100000002,
+                    -33.407854,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Origan sucursal Apoquindo",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Apoquindo 7072"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.619291,
+                    -33.428992,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nación Pedal",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Dr. Manuel Barros Borgoño 20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.625816,
+                    -33.44699,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Enviro",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Condell 1342"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.554639,
+                    -33.474245,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Akela Bikes",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Mariano Sánchez Fontecilla 1998, loc. 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.597348,
+                    -33.444355,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Niubikes sucursal Lautaro Ferrer",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Holanda 2808"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6464,
+                    -33.437021,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Máquina Maravillosa",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Ayacucho 477"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.602978,
+                    -33.418816,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Don Nico",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Providencia 2594 loc. Z7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.664347,
+                    -33.458574,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pedalea Beaucheff",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Tupper 2140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.665987,
+                    -33.438303,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Esquina B.A.R.",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Gral. Baquedano 557"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.585085,
+                    -33.446665,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Niubikes sucursal Echeñique",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Echeñique 4366"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.552322,
+                    -33.425876,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Torres de Fleming",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Florencio Barrios 1685, Torre 4 loc. 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.698202,
+                    -33.599348,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Astorga",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Esmeralda 24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.55977,
+                    -33.558124,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cicles Pavéz sucursal La Florida",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "La Florida 1149"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.72673,
+                    -33.406506,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fuentes",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "José Miguel Infante 5501"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.570486,
+                    -33.409795,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Patricio Martínez",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Apoquindo 5681 (Caracol Vip's, loc. 3)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66666,
+                    -33.44117,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rueda La Bolañera ",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Maturana 302"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66422100000001,
+                    -33.415957,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jamanco Kike",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Fermín Vivaceta 1276 A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.550771,
+                    -33.469833,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paolo",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Las Parcelas 9000 D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.62817700000001,
+                    -33.430853,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Ruta Barata",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Bellavista 0583"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.766995,
+                    -33.528114,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cycles Jara",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Los Diamantes 506"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.640706,
+                    -33.4732,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "César",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Victor Manuel 2210, sector 1, loc. 1-A / 2230 sector 5, loc. 347-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.623709,
+                    -33.533686,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Moreno y Moreno",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Tres Poniente 8089"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.624253,
+                    -33.449149,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Drais",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Italia 1609"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.642388,
+                    -33.452627,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Voltaire",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "San Isidro 672"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.538283,
+                    -33.472326,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Don Carlos",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Las Parcelas 9002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.672825,
+                    -33.435968,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Marchant",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Cueto 751"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.610823,
+                    -33.474304000000004,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cycles Hoffens",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Rodrigo De Araya 2140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.734449,
+                    -33.468475,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "San Martín",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Lago General Carrera 8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.694634,
+                    -33.579811,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rios",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Gran Avenida 13694 loc. J-23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.78150000000001,
+                    -33.532819,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ciclo Servy",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Alfredo Silva Carvallo 1967"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.53377400000001,
+                    -33.425207,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Leobike",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Santa Zita 9115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.627126,
+                    -33.451365,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Skull Bike",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Tucapel 239"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.604078,
+                    -33.417909,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carlos Leyton",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Luis Thayer Ojeda 166 of. 705"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.641956,
+                    -33.433615,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ezu",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Bellavista 185"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.742911,
+                    -33.488319,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chen - Yowzhichen",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Escritores De Chile 4088"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.683787,
+                    -33.583699,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Tremenda",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Juan De Montero 13666"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.606907,
+                    -33.546758,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Ruta Del Ciclista",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Trinidad 1593"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.586654,
+                    -33.50583,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Purísima De Lo Vásquez",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "San Luis 4877"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.74929,
+                    -33.360893,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lo Marcoleta 505",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.633995,
+                    -33.367336,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Julio Henríquez",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Recoleta 5949"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.55141,
+                    -33.447601,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vicente Pérez Rosales 378",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.621555,
+                    -33.450267,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Salvador 1863",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.583113,
+                    -33.476963,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cycles Gómez",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Enrique Molina 4647"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.735667,
+                    -33.366651,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "José Francisco Vergara 99-B",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.694924,
+                    -33.454669,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alameda 4305",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.731512,
+                    -33.47857,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Las Torres 463",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.586965,
+                    -33.58632,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Luis Matte Larraín 1818",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.716183,
+                    -33.454745,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Obispo Rodríguez 5934",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.791339,
+                    -33.515847,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Negro",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Cuatro Poniente 2029"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.601106,
+                    -33.527611,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Serena 421",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.725185,
+                    -33.446035,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Héctor Gajardo 619",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.675958,
+                    -33.579793,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Los Morros 13236",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.686915,
+                    -33.375669,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Algarrobal 1915",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.786902,
+                    -33.507,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cacique Vitacura 2140",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.776393,
+                    -33.539866,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Del Ferrocarril 1999",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.688739,
+                    -33.499525,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Central 6078",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.624897,
+                    -33.507461,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Departamental 299",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.701163,
+                    -33.467226,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "San Jorge 499",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.705562,
+                    -33.606149,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bulnes 1329",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.620493,
+                    -33.435761,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "María Teresa Carmona",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Valenzuela Castillo 1028"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.653822,
+                    -33.54562,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Osorio",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Aníbal Pinto 9257"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.613645,
+                    -33.439289,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Muhr Bikes",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a",
+                "description": "Detrás de las torres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.694626,
+                    -33.438492,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Juan Lagos",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.584881,
+                    -33.431793,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bilbao",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.653875,
+                    -33.429926,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "General Prieto",
+                "styleUrl": "#icon-22",
+                "styleHash": "7691a22a"
+            }
+        }
+    ]
+}
