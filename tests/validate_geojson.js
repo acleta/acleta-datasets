@@ -14,6 +14,7 @@ exports.run = function (callback) {
       fs.readFile(file, {}, function (err,data) {
         if (err) {
           allValid = false;
+          console.error(file);
           console.error(err);
           callback(false);
           return;
@@ -22,6 +23,7 @@ exports.run = function (callback) {
         var errors = geojsonhint.hint(data.toString());
 
         if (errors.length) {
+          console.error(file);
           console.error(errors);
           callback(false);
         }
