@@ -1,0 +1,29 @@
+{
+  "name": "acleta-datasets",
+  "version": "0.1.0",
+  "description": "Public biking datasets",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/runner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acleta/acleta-datasets.git"
+  },
+  "keywords": [
+    "geojson",
+    "bicycle",
+    "santiago",
+    "chile"
+  ],
+  "author": "acleta.cl",
+  "license": "Creative Commons By",
+  "bugs": {
+    "url": "https://github.com/acleta/acleta-datasets/issues"
+  },
+  "homepage": "https://github.com/acleta/acleta-datasets",
+  "devDependencies": {
+    "geojsonhint": "^1.0.0",
+    "glob": "^5.0.0"
+  }
+}
