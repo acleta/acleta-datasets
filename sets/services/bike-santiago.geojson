@@ -1,1 +1,1337 @@
-INVALID GEOJSON
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59038,
+          -33.40296
+        ]
+      },
+      "properties": {
+        "id": 2458,
+        "name": "El Ciruelillo",
+        "status": "Unknown",
+        "address": "Alonso de Córdova / El Ciruelillo",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.57906,
+          -33.38499
+        ]
+      },
+      "properties": {
+        "id": 2461,
+        "name": "Plaza Colombia",
+        "status": "Unknown",
+        "address": "Manquehue Norte/Joaquin Cerda",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60158,
+          -33.40065
+        ]
+      },
+      "properties": {
+        "id": 2463,
+        "name": "Bicentenario",
+        "status": "Unknown",
+        "address": "Bicentenario / Alonso de Córdova",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60119,
+          -33.40719
+        ]
+      },
+      "properties": {
+        "id": 2464,
+        "name": "Naciones Unidas",
+        "status": "Unknown",
+        "address": "Dag Hammarskjold / Vitacura",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59963,
+          -33.39399
+        ]
+      },
+      "properties": {
+        "id": 2465,
+        "name": "Mestizo",
+        "status": "Unknown",
+        "address": "Bicentenario / Isabel Montt",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59863,
+          -33.40333
+        ]
+      },
+      "properties": {
+        "id": 2466,
+        "name": "Nueva Costanera",
+        "status": "Unknown",
+        "address": "Nueva Costanera / Antonio de Pastrana",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58264,
+          -33.39713
+        ]
+      },
+      "properties": {
+        "id": 2467,
+        "name": "Plaza San Pio",
+        "status": "Unknown",
+        "address": "Vitacura / Pio XI ",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.57711,
+          -33.39693
+        ]
+      },
+      "properties": {
+        "id": 2468,
+        "name": "Las Hualtatas",
+        "status": "Unknown",
+        "address": "Las Hualtatas / Luis Carrera",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59442,
+          -33.40197
+        ]
+      },
+      "properties": {
+        "id": 2469,
+        "name": "Alonso de Córdova",
+        "status": "Unknown",
+        "address": "Vitacura / Alonso de Córdova",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59502,
+          -33.39583
+        ]
+      },
+      "properties": {
+        "id": 2470,
+        "name": "Plaza Turquía",
+        "status": "Unknown",
+        "address": "Francisco de Aguirre / Obispo Sierra",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.57835,
+          -33.39422
+        ]
+      },
+      "properties": {
+        "id": 2471,
+        "name": "Vitacura / Luis Carrera ",
+        "status": "Unknown",
+        "address": "Vitacura / Luis Carrera ",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.54709,
+          -33.37708
+        ]
+      },
+      "properties": {
+        "id": 2472,
+        "name": "Alejandro Serani",
+        "status": "Unknown",
+        "address": "Alejandro Serani entre El Mirador y La Llavería",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59279,
+          -33.40041
+        ]
+      },
+      "properties": {
+        "id": 2474,
+        "name": "Plaza Lo Castillo",
+        "status": "Unknown",
+        "address": "Vitacura / Candelaria Goyenechea",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59727,
+          -33.40504
+        ]
+      },
+      "properties": {
+        "id": 2475,
+        "name": "Paul Claudel",
+        "status": "Unknown",
+        "address": "Vitacura / Paul Claudel",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58791,
+          -33.39858
+        ]
+      },
+      "properties": {
+        "id": 2476,
+        "name": "Américo Vespucio / Vitacura ",
+        "status": "Unknown",
+        "address": "Américo Vespucio / Vitacura ",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.54816,
+          -33.38921
+        ]
+      },
+      "properties": {
+        "id": 2477,
+        "name": "Alto Las Condes",
+        "status": "Unknown",
+        "address": "Avenida Kennedy/Padre Hurtado",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.57604,
+          -33.38727
+        ]
+      },
+      "properties": {
+        "id": 2478,
+        "name": "Manquehue / Luis Pasteur",
+        "status": "Unknown",
+        "address": "Manquehue / Luis Pasteur ",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5726,
+          -33.39214
+        ]
+      },
+      "properties": {
+        "id": 2479,
+        "name": "Clínica Alemana",
+        "status": "Unknown",
+        "address": "Manquehue / Vitacura",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59262,
+          -33.39263
+        ]
+      },
+      "properties": {
+        "id": 2480,
+        "name": "Américo Vespucio / Francisco de Aguirre",
+        "status": "Unknown",
+        "address": "Americo Vespucio / Francisco de Aguirre",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58676,
+          -33.40248
+        ]
+      },
+      "properties": {
+        "id": 2481,
+        "name": "Américo Vespucio / Las Hualtatas",
+        "status": "Unknown",
+        "address": "Americo Vespucio / Las Hualtatas",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59405,
+          -33.4045
+        ]
+      },
+      "properties": {
+        "id": 2482,
+        "name": "Las Nieves",
+        "status": "Unknown",
+        "address": "Las Nieves / Armando Jaramillo",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58145,
+          -33.39281
+        ]
+      },
+      "properties": {
+        "id": 2483,
+        "name": "Luis Pasteur / Luis Carrera ",
+        "status": "Unknown",
+        "address": "Luis Pasteur / Luis Carrera ",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5631,
+          -33.38621
+        ]
+      },
+      "properties": {
+        "id": 2492,
+        "name": "Los Castaños",
+        "status": "Unknown",
+        "address": "Nicolas Gogol/Vitacura",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.55311,
+          -33.38438
+        ]
+      },
+      "properties": {
+        "id": 2508,
+        "name": "Las Tranqueras / Vitacura",
+        "status": "Unknown",
+        "address": "Las Tranqueras / Vitacura",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.53455,
+          -33.38399
+        ]
+      },
+      "properties": {
+        "id": 2509,
+        "name": "Estoril",
+        "status": "Unknown",
+        "address": "Avenida Presidente Kennedy / Tabancura",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5701,
+          -33.37644
+        ]
+      },
+      "properties": {
+        "id": 2511,
+        "name": "Lo Curro",
+        "status": "Unknown",
+        "address": "Luis Pasteur 7055",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58648,
+          -33.39037
+        ]
+      },
+      "properties": {
+        "id": 2512,
+        "name": "Luis Carrera /Candelaria Goyonechea",
+        "status": "Unknown",
+        "address": "Luis Carrera / Candelaria Goyonechea",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.57901,
+          -33.40075
+        ]
+      },
+      "properties": {
+        "id": 2513,
+        "name": "Parque Arauco",
+        "status": "Unknown",
+        "address": "Avenida Presidente Kennedy / Pedro Canisio",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.55477,
+          -33.37803
+        ]
+      },
+      "properties": {
+        "id": 2515,
+        "name": "Plaza Chica Lo Gallo",
+        "status": "Unknown",
+        "address": "Monseñor Escriva de Balaguer Sur / Las Tranqueras Oriente",
+        "city": "Comuna de Vitacura, Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.51667,
+          -33.35964
+        ]
+      },
+      "properties": {
+        "id": 2686,
+        "name": "Portal La Dehesa",
+        "status": "Unknown",
+        "address": "Avenida La Dehesa 1300",
+        "city": "Lo Barnechea, Santiago",
+        "totalDocks": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.49433,
+          -33.36391
+        ]
+      },
+      "properties": {
+        "id": 2687,
+        "name": "Municipalidad Lo Barnechea",
+        "status": "Unknown",
+        "address": "Las Condes 14413",
+        "city": "Lo Barnechea,Santiago",
+        "totalDocks": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5445,
+          -33.34414
+        ]
+      },
+      "properties": {
+        "id": 2691,
+        "name": "Los Trapenses",
+        "status": "Unknown",
+        "address": "Camino Los Trapenses 3515",
+        "city": "Lo Barnechea, Santiago",
+        "totalDocks": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.50425,
+          -33.36936
+        ]
+      },
+      "properties": {
+        "id": 2841,
+        "name": "Las Condes / San José de la Sierra",
+        "status": "Unknown",
+        "address": "Las Condes / San José de la Sierra",
+        "city": "Lo Barnechea, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.51758,
+          -33.37246
+        ]
+      },
+      "properties": {
+        "id": 2842,
+        "name": "Canta Gallo",
+        "status": "Unknown",
+        "address": "Las Condes / San Francisco de Asís",
+        "city": "Lo Barnechea, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.51499,
+          -33.36258
+        ]
+      },
+      "properties": {
+        "id": 2843,
+        "name": "La Dehesa / Robles",
+        "status": "Unknown",
+        "address": "La Dehesa / Robles",
+        "city": "Lo Barnechea, Santiago",
+        "totalDocks": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.50529,
+          -33.36175
+        ]
+      },
+      "properties": {
+        "id": 2846,
+        "name": "Raul Labbé / La Pasarela",
+        "status": "Unknown",
+        "address": "Raul Labbé / La Pasarela",
+        "city": "Lo Barnechea, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.50672,
+          -33.35769
+        ]
+      },
+      "properties": {
+        "id": 2847,
+        "name": "Cuatro Vientos / Lo Barnechea",
+        "status": "Unknown",
+        "address": "Cuatro Vientos / Lo Barnechea",
+        "city": "Lo Barnechea, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.51782,
+          -33.35545
+        ]
+      },
+      "properties": {
+        "id": 2848,
+        "name": "La Dehesa / Luis Bascuñán",
+        "status": "Unknown",
+        "address": "La Dehesa / Luis Bascuñán",
+        "city": "Lo Barnechea, Santiago",
+        "totalDocks": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.51883,
+          -33.35271
+        ]
+      },
+      "properties": {
+        "id": 2849,
+        "name": "La Dehesa / El Rodeo",
+        "status": "Unknown",
+        "address": "La Dehesa / El Rodeo",
+        "city": "Lo Barnechea, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60518,
+          -33.41695
+        ]
+      },
+      "properties": {
+        "id": 2851,
+        "name": "Costanera Center",
+        "status": "Unknown",
+        "address": "Nueva Tajamar / Vitacura",
+        "city": "Providencia, Santiago",
+        "totalDocks": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.53846,
+          -33.35567
+        ]
+      },
+      "properties": {
+        "id": 2852,
+        "name": "José Alcalde Delano / La Madrugada",
+        "status": "Unknown",
+        "address": "José Alcalde Delano / La Madrugada",
+        "city": "Lo Barnechea, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.53514,
+          -33.3602
+        ]
+      },
+      "properties": {
+        "id": 2853,
+        "name": "El Tranque / Los Castaños",
+        "status": "Unknown",
+        "address": "El Tranque / Los Castaños",
+        "city": "Lo Barnechea, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.54243,
+          -33.34795
+        ]
+      },
+      "properties": {
+        "id": 2854,
+        "name": "Puertas Del Valle",
+        "status": "Unknown",
+        "address": "Camino Los Trapenses / Camino del Abad Int",
+        "city": "Lo Barnechea, Santiago",
+        "totalDocks": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65877,
+          -33.43334
+        ]
+      },
+      "properties": {
+        "id": 2871,
+        "name": "San Martin / General Mackenna",
+        "status": "Unknown",
+        "address": "San Martin / General Mackenna",
+        "city": "Santiago",
+        "totalDocks": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64723,
+          -33.44053
+        ]
+      },
+      "properties": {
+        "id": 2911,
+        "name": "Teatro Municipal",
+        "status": "Unknown",
+        "address": "Agustinas / Tenderini",
+        "city": "Santiago",
+        "totalDocks": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.61576,
+          -33.43339
+        ]
+      },
+      "properties": {
+        "id": 2918,
+        "name": "Duoc (Antonio Varas)",
+        "status": "Unknown",
+        "address": "Antonio Varas / Juan Williams Noon",
+        "city": "Providencia, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.61969,
+          -33.42866
+        ]
+      },
+      "properties": {
+        "id": 2919,
+        "name": "Metro Manuel Montt",
+        "status": "Unknown",
+        "address": "Metro Manuel Montt",
+        "city": "Providencia, Santiago",
+        "totalDocks": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.63313,
+          -33.43762
+        ]
+      },
+      "properties": {
+        "id": 2921,
+        "name": "Metro Plaza Italia",
+        "status": "Unknown",
+        "address": "General Bustamante",
+        "city": "Providencia, Santiago",
+        "totalDocks": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.62555,
+          -33.43245
+        ]
+      },
+      "properties": {
+        "id": 2927,
+        "name": "Metro Salvador",
+        "status": "Unknown",
+        "address": "Metro Salvador",
+        "city": "Providencia, Santiago",
+        "totalDocks": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.63185,
+          -33.44297
+        ]
+      },
+      "properties": {
+        "id": 2929,
+        "name": "Metro Parque Bustamante",
+        "status": "Unknown",
+        "address": "Ramón Carnicer / Parque Bustamante",
+        "city": "Providencia, Santiago",
+        "totalDocks": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.594,
+          -33.43244
+        ]
+      },
+      "properties": {
+        "id": 2931,
+        "name": "Plaza Rio De Janeiro",
+        "status": "Unknown",
+        "address": "Pocuro / Augusto Ovalle Castillo",
+        "city": "Providencia, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65947,
+          -33.44167
+        ]
+      },
+      "properties": {
+        "id": 2933,
+        "name": "Agustinas / Manuel Rodriguez Norte",
+        "status": "Unknown",
+        "address": "Aguetinas 1612",
+        "city": "Santiago",
+        "totalDocks": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.63128,
+          -33.44717
+        ]
+      },
+      "properties": {
+        "id": 2934,
+        "name": "Metro Santa Isabel",
+        "status": "Unknown",
+        "address": "General Bustamante / Santa Isabel",
+        "city": "Providencia, Santiago",
+        "totalDocks": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59093,
+          -33.42654
+        ]
+      },
+      "properties": {
+        "id": 2935,
+        "name": "Metro Colón",
+        "status": "Unknown",
+        "address": "Tobalaba / Elidoro Yañez",
+        "city": "Providencia, Santiago",
+        "totalDocks": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58617,
+          -33.43071
+        ]
+      },
+      "properties": {
+        "id": 2936,
+        "name": "Metro Francisco Bilbao",
+        "status": "Unknown",
+        "address": "Pocuro / Tobalaba (Metro Bilbao)",
+        "city": "Providencia, Santiago",
+        "totalDocks": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60449,
+          -33.43509
+        ]
+      },
+      "properties": {
+        "id": 2937,
+        "name": "Ricardo Lyon / Pocuro",
+        "status": "Unknown",
+        "address": "Ricardo Lyon / Pocuro",
+        "city": "Providencia, Santiago",
+        "totalDocks": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60887,
+          -33.42388
+        ]
+      },
+      "properties": {
+        "id": 2938,
+        "name": "Ricardo Lyon / Lota",
+        "status": "Unknown",
+        "address": "Ricardo Lyon / Coyancura",
+        "city": "Providencia, Santiago",
+        "totalDocks": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.61363,
+          -33.42549
+        ]
+      },
+      "properties": {
+        "id": 2939,
+        "name": "Metro Pedro de Valdivia",
+        "status": "Unknown",
+        "address": "Nueva Providencia / Marchant Pereira",
+        "city": "Providencia, Santiago",
+        "totalDocks": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.61131,
+          -33.43276
+        ]
+      },
+      "properties": {
+        "id": 2940,
+        "name": "Municipalidad Providencia",
+        "status": "Unknown",
+        "address": "Marchant Pereira 880",
+        "city": "Providencia, Santiago",
+        "totalDocks": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60126,
+          -33.41876
+        ]
+      },
+      "properties": {
+        "id": 2942,
+        "name": "Metro Tobalaba",
+        "status": "Unknown",
+        "address": "Hernando de Aguirre / Tobalaba",
+        "city": "Providencia, Santiago",
+        "totalDocks": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65876,
+          -33.4385
+        ]
+      },
+      "properties": {
+        "id": 2943,
+        "name": "Metro Santa Ana",
+        "status": "Unknown",
+        "address": "San Martin / Catedral",
+        "city": "Santiago",
+        "totalDocks": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.66031,
+          -33.4462
+        ]
+      },
+      "properties": {
+        "id": 2954,
+        "name": "Metro Los Heroes",
+        "status": "Unknown",
+        "address": "Alameda / Manuel Rodrigez Norte",
+        "city": "Santiago",
+        "totalDocks": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64961,
+          -33.43721
+        ]
+      },
+      "properties": {
+        "id": 2958,
+        "name": "Plaza de Armas",
+        "status": "Unknown",
+        "address": "Monjitas 879",
+        "city": "Santiago",
+        "totalDocks": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6415,
+          -33.44975
+        ]
+      },
+      "properties": {
+        "id": 2959,
+        "name": "Santa Isabel / Carmen",
+        "status": "Unknown",
+        "address": "Santa Isabel / Carmen",
+        "city": "Santiago",
+        "totalDocks": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64492,
+          -33.44188
+        ]
+      },
+      "properties": {
+        "id": 2960,
+        "name": "Metro Santa Lucia",
+        "status": "Unknown",
+        "address": "Miraflores 80",
+        "city": "Santiago",
+        "totalDocks": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65424,
+          -33.4366
+        ]
+      },
+      "properties": {
+        "id": 2961,
+        "name": "Santo Domingo / Morande",
+        "status": "Unknown",
+        "address": "Santo Domingo / Morande",
+        "city": "Santiago",
+        "totalDocks": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65472,
+          -33.44226
+        ]
+      },
+      "properties": {
+        "id": 2962,
+        "name": "Palacio de La Moneda",
+        "status": "Unknown",
+        "address": "Teatinos / Moneda",
+        "city": "Santiago, Santiago",
+        "totalDocks": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64737,
+          -33.4368
+        ]
+      },
+      "properties": {
+        "id": 2963,
+        "name": "Monjitas / Mac Iver",
+        "status": "Unknown",
+        "address": "Monjitas 524 santiago",
+        "city": "Santiago",
+        "totalDocks": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64446,
+          -33.43665
+        ]
+      },
+      "properties": {
+        "id": 2964,
+        "name": "Metro Bellas Artes",
+        "status": "Unknown",
+        "address": "Monjitas /Mosqueto",
+        "city": "Santiago, Santiago",
+        "totalDocks": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65587,
+          -33.43337
+        ]
+      },
+      "properties": {
+        "id": 2965,
+        "name": "Teatinos / General Mackenna",
+        "status": "Unknown",
+        "address": "Teatino / General Mackenna",
+        "city": "Santiago",
+        "totalDocks": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65517,
+          -33.43983
+        ]
+      },
+      "properties": {
+        "id": 3000,
+        "name": "Teatinos / Huerfanos",
+        "status": "Unavailable",
+        "address": "Teatinos 333",
+        "city": "Santiago, Santiago",
+        "totalDocks": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.66819,
+          -33.44866
+        ]
+      },
+      "properties": {
+        "id": 3001,
+        "name": "Metro República",
+        "status": "Unknown",
+        "address": "Republica 24",
+        "city": "Santiago, Santiago",
+        "totalDocks": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65222,
+          -33.44051
+        ]
+      },
+      "properties": {
+        "id": 3002,
+        "name": "Bandera / Agustinas",
+        "status": "Unknown",
+        "address": "Bandera 227",
+        "city": "Santiago, Santiago",
+        "totalDocks": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64095,
+          -33.43824
+        ]
+      },
+      "properties": {
+        "id": 3003,
+        "name": "Barrio Lastarria",
+        "status": "Unknown",
+        "address": "Villavicencio 395",
+        "city": "Santiago",
+        "totalDocks": 23
+      }
+    }
+  ]
+}
