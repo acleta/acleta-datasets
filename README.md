@@ -1,5 +1,7 @@
 # Datasets - A Cleta
 
+[![Build Status](https://travis-ci.org/acleta/acleta-datasets.svg?branch=master)](https://travis-ci.org/acleta/acleta-datasets)
+
 Este repositorio es un compilado de algunos datasets
 
 ## Registro de Cambios
